@@ -43,4 +43,3 @@ Data is loaded into a pandas dataframe by traversing the dataset directory, the 
 - Linear SVC used as classifier with certain params
 - Accuracy, Precision, Recall, F1 is scored
 - Sample data prediction
->>>>>>> 89bd89805e407919fd41a8b9755a89396da592ca
